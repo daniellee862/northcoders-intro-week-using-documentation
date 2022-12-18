@@ -1,4 +1,4 @@
-# remote-pre-doc-searching
+# remote-pre-doc-searching.
 
 This resource is designed to help you get used to using online documentation to help yourself when you are stuck.
 
